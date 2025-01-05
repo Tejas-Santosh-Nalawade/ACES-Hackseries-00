@@ -5,39 +5,6 @@ Welcome to our project! Here's the awesome tech stack we used to build this and 
 
 ---
 
-## 💻 HTML5  
-The backbone of web development! 🧱  
-Crafted semantic and accessible web pages with ease.  
-
----
-
-## 🎨 CSS3  
-Styling the web with elegance and charm! ✨  
-Added vibrant colors, animations, and a touch of magic.  
-
----
-
-## ⚡ JavaScript  
-Making the web dynamic and alive! 🌐  
-Implemented interactive features and brought creativity to life.  
-
----
-
-## 📦 Bootstrap  
-Creating responsive layouts in style! 🎉  
-Ensured adaptability and modern designs for every device.  
-
----
-
-## 🌟 Features of Our Project  
-- **Fully Responsive Design:** 📱 Looks great on every screen size.  
-- **Interactive Elements:** 🖱️ Engaging and user-friendly experience.  
-- **Team Collaboration:** 🤝 Built as a team, leveraging each other's strengths.  
-- **Scalable Architecture:** 🚀 Future-proof and ready for expansion.  
-- **Clean Codebase:** 🧹 Easy to maintain and understand.  
-
----
-
 ## 🌟 Welcome to HackSeries 🚀  
 HackSeries is a flagship technical event hosted by **Association of Computer Engineering Students (ACES)** at **Dr. D.Y. Patil Institute of Technology, Pimpri**.  
 
@@ -81,6 +48,42 @@ Start with **C++**, **Python**, or **Java**. Understand **OOP concepts** and par
 
 ### 📖 **Git & GitHub**  
 Git is a powerful version control system, and GitHub enhances collaboration. Explore a **Git Cheat Sheet** to master commands and improve workflow.  
+
+---
+
+## TECH STACK
+---
+
+## 💻 HTML5  
+The backbone of web development! 🧱  
+Crafted semantic and accessible web pages with ease.  
+
+---
+
+## 🎨 CSS3  
+Styling the web with elegance and charm! ✨  
+Added vibrant colors, animations, and a touch of magic.  
+
+---
+
+## ⚡ JavaScript  
+Making the web dynamic and alive! 🌐  
+Implemented interactive features and brought creativity to life.  
+
+---
+
+## 📦 Bootstrap  
+Creating responsive layouts in style! 🎉  
+Ensured adaptability and modern designs for every device.  
+
+---
+
+## 🌟 Features of Our Project  
+- **Fully Responsive Design:** 📱 Looks great on every screen size.  
+- **Interactive Elements:** 🖱️ Engaging and user-friendly experience.  
+- **Team Collaboration:** 🤝 Built as a team, leveraging each other's strengths.  
+- **Scalable Architecture:** 🚀 Future-proof and ready for expansion.  
+- **Clean Codebase:** 🧹 Easy to maintain and understand.  
 
 ---
 
