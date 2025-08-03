@@ -1,4 +1,5 @@
 # 🌟 ACES HackSeries Website
+![HackSeries Banner](images/banner.png)
 
 > **A comprehensive event platform for tech education and innovation, built with modern web technologies**
 
