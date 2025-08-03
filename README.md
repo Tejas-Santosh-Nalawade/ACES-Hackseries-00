@@ -2,7 +2,7 @@
 
 > **A comprehensive event platform for tech education and innovation, built with modern web technologies**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://aces-hackseries.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Tejas-Santosh-Nalawade/ACES-HACKSERIES-UPDATED-WEBSITE)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
